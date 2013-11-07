@@ -20,6 +20,6 @@ An outline of each of the main repos follows:
 
 Distributed through [Makesites.org](http://makesites.org/)
 
-Released under the [MIT license](http://makesites.org/licenses/mit)
+Released under the [MIT license](http://makesites.org/licenses/MIT/)
 
 
