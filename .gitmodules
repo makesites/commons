@@ -1,0 +1,15 @@
+[submodule "css"]
+	path = css
+	url = git://github.com/commons/common.css.git
+[submodule "js"]
+	path = js
+	url = git://github.com/commons/common.js.git
+[submodule "grid"]
+	path = grid
+	url = git://github.com/commons/grid.git
+[submodule "less"]
+	path = less
+	url = git://github.com/commons/less.git
+[submodule "webapp"]
+	path = webapp
+	url = git://github.com/commons/webapp.git
